@@ -6,6 +6,7 @@
     "build": "npx tailwindcss -i ./input.css -o ./output.css --minify"
   },
   "dependencies": {
-    "tailwindcss": "^3.0.0"
+    "tailwindcss/cli": "^4.1.1d",
+    "tailwindcss": "^4.1.1d"
   }
 }
