@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Fitness Website",
   "scripts": {
-    "build": "npx tailwindcss -i ./input.css -o ./output.css --minify"
+    "build": "npx tailwindcss -i ./src/input.css -o ./src/output.css --minify"
   },
   "dependencies": {
     "tailwindcss": "^3.4.1"
